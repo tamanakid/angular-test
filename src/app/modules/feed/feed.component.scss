@@ -1,0 +1,14 @@
+.feed {
+  padding: 1rem 5rem;
+  
+  &__post {
+    margin-bottom: 3rem;
+  }
+
+  .title {
+    font-family: Georgia;
+    font-size: 1.4rem;
+    font-weight: bolder;
+    padding-bottom: 0.5rem;
+  }
+}
